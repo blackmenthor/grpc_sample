@@ -1,0 +1,5 @@
+grpc:
+  - name: tutorial                   # Name of grpc entry
+    port: 8080                      # Port of grpc entry
+    enabled: true                   # Enable grpc entry
+    noRecvMsgSizeLimit: false
